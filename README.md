@@ -1,4 +1,7 @@
 <h1>Easy Shooping</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="img/esy_shoop-removebg-preview.png">DevClub</a></h2>
+<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<br>
+<h2>aVersões Desktop/Mobile</h2>
+<img src="/Reponsividade/img/esy_shoop-removebg-preview.png">
